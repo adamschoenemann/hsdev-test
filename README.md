@@ -1,0 +1,1 @@
+Just a small package to check for [issue #37](https://github.com/mvoidex/hsdev/issues/37).
